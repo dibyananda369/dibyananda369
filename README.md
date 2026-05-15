@@ -26,7 +26,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a **Full Stack Developer** driven by the "GSD" (Get Shit Done) methodology. With over a year of hands-on experience at **Cloudsat Pvt Ltd**, I specialize in transforming complex architectural requirements into seamless, high-performance web and mobile applications.
+I'm a **Full Stack Developer** . With over a year of hands-on experience at **Cloudsat Pvt Ltd**, I specialize in transforming complex architectural requirements into seamless, high-performance web and mobile applications.
 
 - 🚀 **Focus:** Architecting centralized multi-tenant ERPs and SaaS platforms.
 - ⚡ **Recent Work:** Building real-time location tracking systems and dual-service delivery platforms.
