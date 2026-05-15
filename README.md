@@ -1,10 +1,20 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Dibyananda+Subudhi;Full+Stack+Developer;Building+Scalable+Architectures;Crafting+Multi-Tenant+SaaS" alt="Typing SVG" />
   
+  <!-- Contact Badges -->
   <p align="center">
     <a href="mailto:dibyanandasubudhi369@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://github.com/dibyananda369"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   </p>
+
+  <!-- AI Tools & LLM Badges -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/Cursor_IDE-0A0A0A?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor IDE" />
+    <img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude AI" />
+    <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+    <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
+  </p>
+
   <img src="https://komarev.com/ghpvc/?username=dibyananda369&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
@@ -14,11 +24,12 @@
   <tr>
     <td width="55%" valign="top" style="padding: 20px;">
       <h2>👨‍💻 About Me</h2>
-      <p>I'm a dedicated <b>Full Stack Developer</b> with a strong focus on building highly scalable, modern web and mobile applications. Driven by the "GSD" (Get Shit Done) methodology, I specialize in turning complex architectural requirements into seamless user experiences.</p>
+      <p>I'm a dedicated <b>Full Stack Developer</b> with a strong focus on building highly scalable, modern web and mobile applications. I specialize in turning complex architectural requirements into seamless user experiences.</p>
       <ul>
         <li>💼 Currently working at <b>Cloudsat Pvt Ltd</b> (1+ Year Experience).</li>
         <li>🚀 Architecting centralized multi-tenant ERPs and SaaS platforms.</li>
         <li>⚡ Building real-time location tracking and dual-service delivery systems.</li>
+        <li>🤖 Leveraging AI tools and LLMs to accelerate development workflows.</li>
         <li>🎯 <b>Fun Fact:</b> I think I am funny (but I let my code do the serious talking).</li>
       </ul>
     </td>
