@@ -1,25 +1,48 @@
-<h1 align="center">Hi 👋, I'm Dibyananda subudhi</h1>
-<h3 align="center">A passionate fullStack developer from India</h3>
-<img alt="Coder GIF" height=200 width=350 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif" />
+<div align="center">
+  <h1>Hi 👋, I'm Dibyananda Subudhi</h1>
+  <h3>Full Stack Developer @ Cloudsat Pvt Ltd | Building Scalable Architectures</h3>
+  <img src="https://komarev.com/ghpvc/?username=dibyananda369&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dibyananda369&label=Profile%20views&color=0e75b6&style=flat" alt="dibyananda369" /> </p>
+<br/>
 
-- 🌱 I’m currently learning **Node js,React native**
+<div align="center">
+  <img alt="Coder GIF" height="200" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif" />
+</div>
 
-- 📫 How to reach me **dibyanandasubudhi369@gmail.com**
+<br/>
 
-- ⚡ Fun fact **I think I am Funny**
+### 👨‍💻 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+- 💼 I’m currently working as a **Full Stack Developer** with over a year of hands-on experience in the industry.
+- 🚀 Architecting and building robust multi-tenant SaaS platforms, ERP solutions, and real-time delivery tracking systems.
+- 💡 Mastering the modern stack: **Next.js, NestJS, React Native, Fastify, TypeScript, and Python**.
+- ⚙️ Deeply focused on writing clean code, optimizing database-per-tenant logic, and delivering seamless user experiences.
+- 📫 Let's connect: **[dibyanandasubudhi369@gmail.com](mailto:dibyanandasubudhi369@gmail.com)**
+- ⚡ Fun fact: **I think I am funny** (but I take my code very seriously 🐛🔨).
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <!-- You can add or remove icons here by editing the 'i=' parameter -->
+    <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs,nestjs,fastify,tailwind,mysql,postgres,mongodb,prisma,git&perline=7" alt="Tech Stack" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dibyananda369&show_icons=true&locale=en&layout=compact" alt="dibyananda369" /></p>
+### 📊 GitHub Analytics
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dibyananda369&show_icons=true&locale=en" alt="dibyananda369" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dibyananda369&show_icons=true&locale=en&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dibyananda369&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" height="150"/>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dibyananda369&" alt="dibyananda369" /></p>
+<br/>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dibyananda369&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
